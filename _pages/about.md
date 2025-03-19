@@ -18,8 +18,8 @@ Educational Background
 
 ‌peer-reviewed academic works
 ======
-1. Wan, X., Cutler, M., Song, Z., Karma, A., Matsuda, T., Baba, A., Rosenbaum, D. (2012). New experimental evidence for mechanism of arrhythmogenic membrane potential alternans based on balance of electrogenic INCX/ICa currents Heart Rhythm 9(10), 1698 1705.(IF=5.225)
-1. Song, Z., Ko, C., Nivala, M., Weiss, J., Qu, Z. (2015). Calcium-Voltage Coupling in the Genesis of Early and Delayed Afterdepolarizations in Cardiac Myocytes Biophysical Journal 108(8), 1908 1921. (IF=3.665)
+1. Wan, X., Cutler, M., **Song, Z**., Karma, A., Matsuda, T., Baba, A., Rosenbaum, D. (2012). New experimental evidence for mechanism of arrhythmogenic membrane potential alternans based on balance of electrogenic INCX/ICa currents Heart Rhythm 9(10), 1698 1705.(IF=5.225)
+1. **Song, Z**., Ko, C., Nivala, M., Weiss, J., Qu, Z. (2015). Calcium-Voltage Coupling in the Genesis of Early and Delayed Afterdepolarizations in Cardiac Myocytes Biophysical Journal 108(8), 1908 1921. (IF=3.665)
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
