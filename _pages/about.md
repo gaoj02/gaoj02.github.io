@@ -21,7 +21,7 @@ Educational Background
 1. Wan, X., Cutler, M., Song, Z., Karma, A., Matsuda, T., Baba, A., Rosenbaum, D. (2012). 
 New experimental evidence for mechanism of arrhythmogenic membrane potential 
 alternans based on balance of electrogenic INCX/ICa currents Heart Rhythm 9(10), 1698 
-1705. (IF=5.225)
+1705.|(IF=5.225)|
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
