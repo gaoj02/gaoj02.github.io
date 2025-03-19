@@ -18,7 +18,8 @@ Position
 ======
 2020-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associate Researcher， Peng Cheng Laboratory (Shenzhen, Guangdong, China)  
 2018-2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Researcher,  University of California, Los Angeles (Los Angeles, California, United States) 
-
+2020-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associate Researcher， Peng Cheng Laboratory (Shenzhen, Guangdong, China)  
+2020-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Los Angeles (Los Angeles, California, United States) 
 
 ‌Peer-reviewed academic works
 ======
