@@ -11,9 +11,9 @@ The primary research focus involves employing methodologies from computer scienc
 
 Educational Background
 ======
-1. 2006-2013 Northeastern University | PhD in Physics
+2006-2013 Northeastern University | PhD in Physics \  
 
-1. 2001-2005 University of Science and Technology of China | Bachelor of Science in Physics
+2001-2005 University of Science and Technology of China | Bachelor of Science in Physics \
 
 
 
