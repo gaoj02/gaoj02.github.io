@@ -16,7 +16,7 @@ Educational Background
 
 
 
-‌peer-reviewed academic works
+‌Peer-reviewed academic works
 ======
 1. Wan, X., Cutler, M., **Song, Z**., Karma, A., Matsuda, T., Baba, A., Rosenbaum, D. (2012). New experimental evidence for mechanism of arrhythmogenic membrane potential alternans based on balance of electrogenic INCX/ICa currents Heart Rhythm 9(10), 1698 1705.(IF=5.225)
 1. **Song, Z**., Ko, C., Nivala, M., Weiss, J., Qu, Z. (2015). Calcium-Voltage Coupling in the Genesis of Early and Delayed Afterdepolarizations in Cardiac Myocytes Biophysical Journal 108(8), 1908 1921. (IF=3.665)
