@@ -16,6 +16,8 @@ Educational Background
 
 Position
 ======
+2020-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associate Researcher  
+2023-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Researcher
 `2020-                   `Associate Researcher， Peng Cheng Laboratory (Shenzhen, Guangdong, China)`          
 2018-2020\ \ \ \ \ \ \ Assistant Researcher,  University of California, Los Angeles (Los Angeles, California, United States) 
 
