@@ -12,12 +12,12 @@ The primary research focus involves employing methodologies from computer scienc
 Educational Background
 ======
 2006-2013 Northeastern University（Boston, MA, United States） | PhD in Physics   
-2001-2005 University of Science and Technology of China  (Hefei, Anhui, China)\| Bachelor of Science in Physics
+2001-2005 University of Science and Technology of China  (Hefei, Anhui, China)  \| Bachelor of Science in Physics
 
 Position
 ======
-2020-            Associate Researcher， Peng Cheng Laboratory (Shenzhen, Guangdong, China)             
-2018-2020  
+2020-\ \ \ \ \ \ \ \ \ Associate Researcher， Peng Cheng Laboratory (Shenzhen, Guangdong, China)             
+2018-2020\ \ \ \ \ \ \ Assistant Researcher,  University of California, Los Angeles (Los Angeles, California, United States) 
 
 ‌Peer-reviewed academic works
 ======
