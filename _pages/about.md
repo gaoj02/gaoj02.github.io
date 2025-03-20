@@ -35,13 +35,13 @@ Position
 1. Lau, E., Kossidas, K., Kim, T., Kunitomo, Y., Ziv, O., **Song, Z**., Taylor, C., Schofield, L., Yammine, J., Liu, G., Peng, X., Qu, Z., Koren, G., Choi, B. (2015). Spatially Discordant Alternans and Arrhythmias in Tachypacing-Induced Cardiac Myopathy in Transgenic   LQT1 Rabbits: The Importance of IKs and Ca2+ Cycling PLoS ONE 10(5), e0122754 1. (IF=2.77)  
 1. Nivala, M., **Song, Z**., Weiss, J., Qu, Z. (2015). T-tubule disruption promotes calcium alternans in failing ventricular myocytes: Mechanistic insights from computational modeling Journal of Molecular and Cellular Cardiology 79, 32-41. (IF=5.055)    
 1. Liu, M., Ko, C., **Song, Z**., Garfinkel, A., Weiss, J., Qu, Z. (2016). A Dynamical Threshold for Cardiac Delayed Afterdepolarization-Mediated Triggered Activity Biophysical Journal 111(11), 2523 2533. (IF=3.665)  
-1. Song, Z., Karma, A., Weiss, J., Qu, Z. (2016). Long-Lasting Sparks: Multi-Metastability and Release Competition in the Calcium Release Unit Network PLOS Computational Biology 12(1), e1004671. (IF=4.428)  
-1. Ko, C., Liu, M., Song, Z., Qu, Z., Weiss, J. (2017). Multiscale Determinants of Delayed Afterdepolarization Amplitude in Cardiac Tissue Biophysical Journal 112(9), 1949 1961.(IF=3.665)  
-1. 
-1.
-1. 
-1.
-1. 
+1. **Song, Z**., Karma, A., Weiss, J., Qu, Z. (2016). Long-Lasting Sparks: Multi-Metastability and Release Competition in the Calcium Release Unit Network PLOS Computational Biology 12(1), e1004671. (IF=4.428)  
+1. Ko, C., Liu, M., **Song, Z**., Qu, Z., Weiss, J. (2017). Multiscale Determinants of Delayed Afterdepolarization Amplitude in Cardiac Tissue Biophysical Journal 112(9), 1949 1961.(IF=3.665)    
+1. **Song, Z**., Qu, Z., Karma, A. (2017). Stochastic initiation and termination of calciummediated triggered activity in cardiac myocytes Proceedings of the National Academy of Sciences 114(3), E270 E279. (IF=11.1)
+1. Huang, X., **Song, Z**., Qu, Z. (2018). Determinants of early afterdepolarization properties in ventricular myocyte models PLOS Computational Biology 14(11), e1006382. (IF=4.428)
+1. Xie, A., ***Song, Z**., Liu, H., Zhou, A., Shi, G., Wang, Q., Gu, L., Liu, M., Xie, L., Qu, Z., Jr, S. (2018). Mitochondrial Ca 2+Influx Contributes to Arrhythmic Risk in Nonischemic Cardiomyopathy Journal of the American Heart Association 7(8), H80 21. (co-first authors) (IF=4.660)  
+1. **#Song, Z**., Liu, M., Qu, Z. (2018). Transverse tubular network structures in the genesis of intracellular calcium alternans and triggered activity in cardiac cells Journal of Molecular and Cellular Cardiology 114(), 288-299. (First Author First Corresponding Author) (IF=5.055)  
+1. #Song, Z., Xie, L., Weiss, J., Qu, Z. (2019). A spatiotemporal ventricular myocyte model incorporating mitochondrial calcium cycling Biophysical Journal doi: 10.1016/j.bpj.2019.09.005. (First Author First Corresponding Author) (IF=3.665)  
 1.
 
 Site-wide configuration
