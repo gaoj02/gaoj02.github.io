@@ -32,8 +32,17 @@ Position
 1. **Song, Z**., Ko, C., Nivala, M., Weiss, J., Qu, Z. (2015). Calcium-Voltage Coupling in the Genesis of Early and Delayed Afterdepolarizations in Cardiac Myocytes Biophysical Journal 108(8), 1908 1921. (IF=3.665)
 1. Pezhouman, A., Singh, N., **Song, Z**., Nivala, M., Eskandari, A., Cao, H., Bapat, A., Ko, C., Nguyen, T., Qu, Z., Karagueuzian, H., Weiss, J. (2015). Molecular Basis of HypokalemiaInduced Ventricular Fibrillation Circulation 132(16), 1528-1537. (IF=23.054)
 1. Chan, Y., Tsai, W., **Song, Z**., Ko, C., Qu, Z., Weiss, J., Lin, S., Chen, P., Jones, L., Chen, Z. (2015). Acute reversal of phospholamban inhibition facilitates the rhythmic whole-cell propagating calcium waves in isolated ventricular myocytes Journal of Molecular and Cellular Cardiology 80(C), 126 135. (IF=5.055)
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Lau, E., Kossidas, K., Kim, T., Kunitomo, Y., Ziv, O., **Song, Z**., Taylor, C., Schofield, L., Yammine, J., Liu, G., Peng, X., Qu, Z., Koren, G., Choi, B. (2015). Spatially Discordant Alternans and Arrhythmias in Tachypacing-Induced Cardiac Myopathy in Transgenic   LQT1 Rabbits: The Importance of IKs and Ca2+ Cycling PLoS ONE 10(5), e0122754 1. (IF=2.77)  
+1. Nivala, M., **Song, Z**., Weiss, J., Qu, Z. (2015). T-tubule disruption promotes calcium alternans in failing ventricular myocytes: Mechanistic insights from computational modeling Journal of Molecular and Cellular Cardiology 79, 32-41. (IF=5.055)    
+1. Liu, M., Ko, C., **Song, Z**., Garfinkel, A., Weiss, J., Qu, Z. (2016). A Dynamical Threshold for Cardiac Delayed Afterdepolarization-Mediated Triggered Activity Biophysical Journal 111(11), 2523 2533. (IF=3.665)  
+1. Song, Z., Karma, A., Weiss, J., Qu, Z. (2016). Long-Lasting Sparks: Multi-Metastability and Release Competition in the Calcium Release Unit Network PLOS Computational Biology 12(1), e1004671. (IF=4.428)  
+1. Ko, C., Liu, M., Song, Z., Qu, Z., Weiss, J. (2017). Multiscale Determinants of Delayed Afterdepolarization Amplitude in Cardiac Tissue Biophysical Journal 112(9), 1949 1961.(IF=3.665)  
+1. 
+1.
+1. 
+1.
+1. 
+1.
 
 Site-wide configuration
 ------
