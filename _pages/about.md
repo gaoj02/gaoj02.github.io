@@ -81,7 +81,7 @@ International Academic Engagements
 
 Professional Activities
 ------
-**Professional Memberships**      Biophysical Society, Heart Rhythm Society, American Heart Association
+**Professional Memberships** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Biophysical Society, Heart Rhythm Society, American Heart Association
 
 How to edit your site's GitHub repository
 ------
