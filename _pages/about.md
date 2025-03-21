@@ -81,7 +81,14 @@ International Academic Engagements
 
 Professional Activities
 ------
-**Professional Memberships** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Biophysical Society, Heart Rhythm Society, American Heart Association
+‌Long-term Peer Reviewer for the Following Academic Journals:Biophysical Journal, The Journal of General Physiology, PLoS Computational Biology, European Biophysics Journal, Physical Review E, PLoS ONE, and etc.    
+Invited to attend the U.S. Food and Drug Administration (FDA) Academic-Industry Workshop in Washington, D.C. (May 2018), where I contributed to establishing general principles for evaluating computational models of cardiac arrhythmia risk prediction and co-authored an FDA white paper on computational simulation strategies for drug development.  
+
+Honors & Professional Affiliations
+------
+**Professional Memberships** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Biophysical Society, Heart Rhythm Society, American Heart Association,Deputy Director of the Professional Committee on Active Health, Shenzhen Health Promotion Association,Chair of the AI in Healthcare Working Group, New Generation Artificial Intelligence Industry Technology Innovation Strategic Alliance
+
+
 
 How to edit your site's GitHub repository
 ------
