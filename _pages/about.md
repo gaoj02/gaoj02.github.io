@@ -56,9 +56,11 @@ Position
 1. Qu Z, Yan D, **Song Z**. (2022). Modeling calcium cycling in the heart: progress, pitfalls, and challenges. Biomolecules. 14;12(11):1686. (IF=4.879)  
 1.Wang, Y., Q. Li, B. Tao, M. Angelini, S. Ramadoss, B. Sun, P. Wang, Y. Krokhaleva, F. Ma, Y. Gu, A. Espinoza, K. Yamauchi, M. Pellegrini, B. Novitch, R. Olcese, Z. Qu, Z. **Song, Z**., and Deb, A. (2023). Fibroblasts in heart scar tissue directly regulate cardiac excitability and arrhythmogenesis. **Science**. 381:1480–1487. **(IF=63.71)**  
    
-Site-wide configuration
+Selected Proceedings of the Conference
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. **Song Z**, Karma A, Karaguenzian HS, Weiss JN, Qu Z. Voltage and Calcium Coupling in the Genesis of Cardiac Afterdepolarizations. Biophysical Journal. 2014; 108(2), 631a.
+1. **Song Z**, Nivala M, Belardinelli Luiz, Karaguenzian H, Weiss J, Qu Z. The Role of Late INa in the Genesis of Delayed Afterdepolarizations in Cardiac Myocytes. Heart Rhythm. 2014; 14-A-8291-HRS.
+1. **Song Z**, Ko CY, Nivala M, Weiss JN, Qu Z. Complex Early and Delayed Afterdepolarization Dynamics caused by Voltage-Calcium Coupling in Cardiac Myocytes. Biophysical Journal. 2015; 108(2), 261a-262a.
 
 Create content & metadata
 ------
