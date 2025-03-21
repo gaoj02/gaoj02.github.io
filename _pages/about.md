@@ -61,6 +61,16 @@ Selected Proceedings of the Conference
 1. **Song Z**, Karma A, Karaguenzian HS, Weiss JN, Qu Z. Voltage and Calcium Coupling in the Genesis of Cardiac Afterdepolarizations. Biophysical Journal. 2014; 108(2), 631a.
 1. **Song Z**, Nivala M, Belardinelli Luiz, Karaguenzian H, Weiss J, Qu Z. The Role of Late INa in the Genesis of Delayed Afterdepolarizations in Cardiac Myocytes. Heart Rhythm. 2014; 14-A-8291-HRS.
 1. **Song Z**, Ko CY, Nivala M, Weiss JN, Qu Z. Complex Early and Delayed Afterdepolarization Dynamics caused by Voltage-Calcium Coupling in Cardiac Myocytes. Biophysical Journal. 2015; 108(2), 261a-262a.
+1. Ko CY, **Song Z**, Qu Z, Weiss JN. Multiscale consequences of spontaneous calcium release on cardiac delayed afterdepolarizations. Biophysical Journal. 2015; 108(2), 264a.
+1. **Song Z**, Adam K, Backx PH, Qu Z. Subcellular Ca Channel Distribution and Ca Alternans in Atrial Myocytes. 2015; 108(2), 261a.
+1. **Song Z**, Karma A, Weiss JN, Qu Z. Mechanism of Long-Lasting Calcium Sparks Caused by Tetracaine in Cardiac Myocytes. Heart Rhythm. 2015; 8559.
+1. **Song Z**, Adam K, Backx PH, Qu Z. Spatiotemporal Dynamics of Calcium Alternans in Atrial Myocytes. Heart Rhythm. 2015; 8574.
+1. **Song Z**, Liu MB, Qu Z. Transverse Tubular Network Structures in the Genesis of Intracellular Calcium Alternans and Triggered Activity in Cardiac Cells. American Heart Association Scientific Sessions. 2017; s3158.
+1. **Song Z**, Qu Z. Mechanisms of Subcellular Spatially Discordant Calcium Alternans In Cardiac Myocytes. Biophysical Journal. 2020; 118(3), 568a.
+1.
+1.
+1.
+1.
 
 Create content & metadata
 ------
